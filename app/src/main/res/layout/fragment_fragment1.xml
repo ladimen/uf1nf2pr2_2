@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment1"
+    android:background="#328DCA"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!-- TODO: Update blank fragment layout -->
+
+        <EditText
+
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="Has guardado tus datos correctamente"
+            android:textColor="#FFFFFF"
+            />
+
+
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">uf1nf1pr2</string>
+    <string name="titulo">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="titulo2">Mis Datos</string>
+    <string name="btnOk">OK</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
